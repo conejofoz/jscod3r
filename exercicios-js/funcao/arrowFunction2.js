@@ -1,3 +1,7 @@
+/**
+ * USANDO ARROW FUNCTION PARA IMPEDIR QUE O THIS MUDE
+ */
+
 function Pessoa(){
     this.idade = 0
 
