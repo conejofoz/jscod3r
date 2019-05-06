@@ -1,3 +1,8 @@
+/**
+ * COMO SE FOSSE UMA CLASSE EM OUTRAS LINGUAGENS COMO JAVA POR EXEMPLO
+ * LET DEIXA O ATRIBUTO PRIVADO
+ * THIS DEIXA O METODO PUBLICO
+*/
 function carro(velocidadeMaxima = 200, delta = 5){
     let velocidadeAtual = 0
 
