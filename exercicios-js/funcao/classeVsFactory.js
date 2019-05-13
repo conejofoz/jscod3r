@@ -15,6 +15,10 @@ p1.falar()
 
 
 
+
+/**
+ * USANDO ARROW FUNCTION NÃO PRECISA USAR O THIS PARA ACESSAR O ATRIBUTO NOME 
+ */
 const criarPessoa = nome =>{
     return{
         falar: ()=> console.log(`Meu nome é ${nome}`)
